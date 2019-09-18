@@ -1,0 +1,33 @@
+/* Add @import Google Font here */
+
+body {
+  color: #222;
+  font-family: "Andale Mono", sans-serif;
+  line-height: 1.25;
+}
+
+a,
+a:visited {
+  color: rgb(217,131,50);
+}
+
+a:hover {
+  color: rgb(117,66,202);
+}
+
+h1, h2 {
+  /* Add font family here */
+}
+
+img {
+  border: 1px solid #ccc;
+}
+
+main {
+  max-width: 642px;
+}
+
+aside p {
+  font-size: smaller;
+  font-style: italic;
+}
